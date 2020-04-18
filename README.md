@@ -21,7 +21,7 @@ http://www.c-bits.com
   - [记事-190426-离开上海-Release.md](https://github.com/YangLian20009/Alian/blob/master/%E8%AE%B0%E4%BA%8B/%E8%AE%B0%E4%BA%8B-190426-%E7%A6%BB%E5%BC%80%E4%B8%8A%E6%B5%B7-Release.md)
   - [记事-190510-暂时的安定.md](https://github.com/YangLian20009/Alian/blob/master/%E8%AE%B0%E4%BA%8B/%E8%AE%B0%E4%BA%8B-190510-%E6%9A%82%E6%97%B6%E7%9A%84%E5%AE%89%E5%AE%9A.md)
   - [记事-190526-周日.md](https://github.com/YangLian20009/Alian/blob/master/%E8%AE%B0%E4%BA%8B/%E8%AE%B0%E4%BA%8B-190526-%E5%91%A8%E6%97%A5.md)
-  - [记事-190820-浮躁与快慢.md](https://github.com/YangLian20009/Alian/blob/master/%E8%AF%BB%E4%B9%A6/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0%E3%80%8A%E5%8F%98%E9%87%8F%E3%80%8B.md)
+  - [记事-190820-浮躁与快慢.md](https://github.com/YangLian20009/Alian/blob/master/%E8%AE%B0%E4%BA%8B/%E8%AE%B0%E4%BA%8B-190820-%E6%B5%AE%E8%BA%81%E4%B8%8E%E5%BF%AB%E6%85%A2.md)
 
 
 
